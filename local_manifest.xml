@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+<project path="device/xiaomi/ruby" name="PQEnablers-Devices/android_device_xiaomi_ruby.git" remote="github" revision="master" />
+    <project path="kernel/xiaomi/mt6877" name="PQEnablers-Devices/android_kernel_xiaomi_mt6877.git" remote="github" revision="master" />
+    <project path="vendor/xiaomi/ruby" name="PQEnablers-Devices/android_vendor_xiaomi_ruby.git" remote="github" revision="master" />
+    <project path="hardware/mediatek" name="PQEnablers-Devices/android_hardware_mediatek.git" remote="github" revision="lineage-20-foss" />
+ 
+</manifest>
